@@ -40,7 +40,7 @@ This repository provides a curated collection of research papers on two main top
 2. Automatic Database Management System Tuning Through Large-scale Machine Learning ([PDF](https://dl.acm.org/doi/10.1145/3035918.3064029)) [VLDB 17] [GitHub](https://github.com/cmu-db/ottertune)
 3. Black or White? How to Develop an AutoTuner for Memory-Based Analytics ([PDF](https://doi.org/10.1145/3318464.3380591)) [SIGMOD 20]
 4. CGPTuner: A Contextual Gaussian Process Bandit Approach for the Automatic Tuning of IT Configurations under Varying Workload Conditions ([PDF](https://doi.org/10.14778/3457390.3457404)) [VLDP 21]
-5. ResTune: Resource Oriented Tuning Boosted by MetaLearning for Cloud Databases ([PDF](https://doi.org/10.1145/ 3448016.3457291)) [SIGMOD 21]
+5. ResTune: Resource Oriented Tuning Boosted by MetaLearning for Cloud Databases ([PDF](https://doi.org/10.1145/3448016.3457291)) [SIGMOD 21]
 6. Towards Dynamic and Safe Configuration Tuning for Cloud Databases ([PDF](https://doi.org/10.1145/3514221.3526176)) [SIGMOD 22]
 7. LlamaTune: sample-efficient DBMS configuration tuning ([PDF](https://doi.org/10.14778/3551793.3551844)) [VLDB 22]
 
