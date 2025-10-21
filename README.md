@@ -27,6 +27,7 @@ This repository provides a curated collection of research papers on two main top
 1. Automatic Database Knob Tuning: A Survey ([PDF](https://dl.acm.org/doi/10.1109/TKDE.2023.3266893)) [TKDE 2023]
 2. 数据库参数配置智能调优研究综述 ([PDF](http://cjc.ict.ac.cn/online/onlinepaper/lyy-2024729180804.pdf)) [计算机学报 2024]
 3. Facilitating database tuning with hyper-parameter optimization: a comprehensive experimental evaluation ([PDF](https://dl.acm.org/doi/10.14778/3538598.3538604)) [VLDB 2022]
+4. Autotuning Systems: Techniques, Challenges, and Opportunities ([PDF](https://dl.acm.org/doi/pdf/10.1145/3722212.3725638)) [SIGMOD 2025]
 
 ### Heuristic-based
 
@@ -43,6 +44,7 @@ This repository provides a curated collection of research papers on two main top
 5. ResTune: Resource Oriented Tuning Boosted by MetaLearning for Cloud Databases ([PDF](https://doi.org/10.1145/3448016.3457291)) [SIGMOD 21]
 6. Towards Dynamic and Safe Configuration Tuning for Cloud Databases ([PDF](https://doi.org/10.1145/3514221.3526176)) [SIGMOD 22]
 7. LlamaTune: sample-efficient DBMS configuration tuning ([PDF](https://doi.org/10.14778/3551793.3551844)) [VLDB 22]
+8. A-Tune-Online: Efficient and QoS-Aware Online Configuration Tuning for Dynamic Workloads ([PDF](https://doi.ieeecomputersociety.org/10.1109/ICDE65448.2025.00164)) [ICDE 25]
 
 ### Reinforcement Learning-based
 
@@ -54,9 +56,11 @@ This repository provides a curated collection of research papers on two main top
 ### Large Language Model Assisted
 
 1. DB-BERT: A Database Tuning Tool that “Reads the Manual” ([PDF](https://doi.org/10.1145/3514221.3517843)) [SIGMOD 22] 
-2. GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization ([PDF](https://doi.org/10.14778/3659437.3659449)) [VLDB 24] 
-3. E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model ([PDF](https://arxiv.org/abs/2404.11581)) [VLDB 25]
-4.  $\lambda$ -Tune: Harnessing Large Language Models for Automated Database System Tuning ([PDF](https://doi.org/10.1145/3709652)) [SIGMOD 25]
+2. GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization ([PDF](https://doi.org/10.14778/3659437.3659449)) [VLDB 24]
+3. GPTuner: An LLM-Based Database Tuning System ([PDF](https://doi.org/10.1145/3733620.3733641)) [SIGMOD 25] 
+4. Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning ([PDF](https://doi.org/10.1109/ICDE65448.2025.00284)) [ICDE 25]
+5. E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model ([PDF](https://arxiv.org/abs/2404.11581))
+6.  $\lambda$ -Tune: Harnessing Large Language Models for Automated Database System Tuning ([PDF](https://doi.org/10.1145/3709652)) [SIGMOD 25]
 
 ## LSM-tree-based KV Store Tuning Papers
 
@@ -65,7 +69,6 @@ This repository provides a curated collection of research papers on two main top
 3. Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty ([PDF](https://doi.org/10.14778/3529337.3529345)) [VLDB 22]
 4. Can Modern LLMs Tune and Configure LSM-based Key-Value Stores? ([PDF](https://doi.org/10.1145/3655038.3665954)) [HOTSTORAGE 24]
 5. RTune: A RocksDB Tuning System with Deep Genetic Algorithm ([PDF](https://doi.org/10.1145/3512290.3528726)) [GECCO 24]
-
 
 
 ### Structural Tuning of LSM-trees
