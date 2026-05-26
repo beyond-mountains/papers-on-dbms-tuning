@@ -61,6 +61,8 @@ This repository provides a curated collection of research papers on two main top
 4. Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning ([PDF](https://doi.org/10.1109/ICDE65448.2025.00284)) [ICDE 25]
 5. E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model ([PDF](https://arxiv.org/abs/2404.11581))
 6.  $\lambda$ -Tune: Harnessing Large Language Models for Automated Database System Tuning ([PDF](https://doi.org/10.1145/3709652)) [SIGMOD 25]
+7. Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents ([PDF](https://www.vldb.org/pvldb/vol19/p1358-zhang.pdf)) [VLDB 26]
+8. DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning ([PDF](https://www.vldb.org/pvldb/vol19/p589-wang.pdf)) [VLDB 26]
 
 ## LSM-tree-based KV Store Tuning Papers
 
