@@ -15,6 +15,7 @@ This repository provides a curated collection of research papers on two main top
   - [Bayesian Optimization-based](#bayesian-optimization-based)
   - [Reinforcement Learning-based](#reinforcement-learning-based)
   - [Large Language Model Assisted](#large-language-model-assisted)
+- [Automated Tuning for Data-Intensive Systems](#automated-tuning-for-data-intensive-systems)
 - [LSM-tree-based KV Store Tuning Papers](#lsm-tree-based-kv-store-tuning-papers)
   - [Structural Tuning of LSM-trees](#structural-tuning-of-lsm-trees)
 
@@ -59,10 +60,17 @@ This repository provides a curated collection of research papers on two main top
 2. GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization ([PDF](https://doi.org/10.14778/3659437.3659449)) [VLDB 24]
 3. GPTuner: An LLM-Based Database Tuning System ([PDF](https://doi.org/10.1145/3733620.3733641)) [SIGMOD 25] 
 4. Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning ([PDF](https://doi.org/10.1109/ICDE65448.2025.00284)) [ICDE 25]
-5. E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model ([PDF](https://arxiv.org/abs/2404.11581))
+5. E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model ([PDF](https://doi.org/10.14778/3773731.3773732)) [VLDB 25]
 6.  $\lambda$ -Tune: Harnessing Large Language Models for Automated Database System Tuning ([PDF](https://doi.org/10.1145/3709652)) [SIGMOD 25]
-7. Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents ([PDF](https://www.vldb.org/pvldb/vol19/p1358-zhang.pdf)) [VLDB 26]
-8. DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning ([PDF](https://www.vldb.org/pvldb/vol19/p589-wang.pdf)) [VLDB 26]
+7.  AgentTune: An Agent-Based Large Language Model Framework for Database Knob Tuning ([PDF](https://doi.org/10.1145/3769758)) [SIGMOD 25]
+8.  MCTuner: Spatial Decomposition-Enhanced Database Tuning via LLM-Guided Exploration ([PDF](https://doi.org/10.1145/3769807)) [SIGMOD 25]
+9. Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents ([PDF](https://www.vldb.org/pvldb/vol19/p1358-zhang.pdf)) [VLDB 26]
+10. DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning ([PDF](https://www.vldb.org/pvldb/vol19/p589-wang.pdf)) [VLDB 26]
+
+## Automated Tuning for Data-Intensive Systems
+
+1. PGTuner: An Efficient Framework for Automatic and Transferable Configuration Tuning of Proximity Graphs ([PDF](https://doi.org/10.1145/3749179)) [SIGMOD 25]
+2. HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search ([PDF](https://doi.org/10.1145/3802071)) [SIGMOD 26]
 
 ## LSM-tree-based KV Store Tuning Papers
 
