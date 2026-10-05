@@ -66,6 +66,7 @@ This repository provides a curated collection of research papers on two main top
 8.  MCTuner: Spatial Decomposition-Enhanced Database Tuning via LLM-Guided Exploration ([PDF](https://doi.org/10.1145/3769807)) [SIGMOD 25]
 9. Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents ([PDF](https://www.vldb.org/pvldb/vol19/p1358-zhang.pdf)) [VLDB 26]
 10. DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning ([PDF](https://www.vldb.org/pvldb/vol19/p589-wang.pdf)) [VLDB 26]
+11. This is Going to Sound Crazy, But What If We Used Large Language Models to Boost Automatic Database Tuning Algorithms By Leveraging Prior History? We Will Find Better Configurations More Quickly Than Retraining From Scratch! ([PDF](https://doi.org/10.1145/3786704)) [SIGMOD 26]
 
 ## Automated Tuning for Data-Intensive Systems
 
